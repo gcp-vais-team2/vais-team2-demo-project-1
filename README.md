@@ -1,3 +1,1 @@
-# Demo Project 1
-
-This is demo project number 1, built with CI/CD, Docker, and Python integration.
+heck. what am i even doing in here
